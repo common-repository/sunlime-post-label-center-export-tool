@@ -1,0 +1,427 @@
+# Copyright (C) 2022 Sunlime Web Innovations GmbH
+# This file is distributed under the same license as the SUNLIME Post Label Center Export Tool plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: SUNLIME Post Label Center Export Tool 1.1.4\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/splc\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-09-20T06:53:14+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.5.0\n"
+"X-Domain: splc\n"
+
+#. Plugin Name of the plugin
+msgid "SUNLIME Post Label Center Export Tool"
+msgstr ""
+
+#. Description of the plugin
+msgid "This plugin enables the export of WooCommerce orders to an existing Post Label Center."
+msgstr ""
+
+#. Author of the plugin
+msgid "Sunlime Web Innovations GmbH"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://sunlime.at"
+msgstr ""
+
+#: inc/core-functions.php:6
+msgid "Bunch"
+msgstr ""
+
+#: inc/core-functions.php:7
+msgid "Bale, compacted"
+msgstr ""
+
+#: inc/core-functions.php:8
+msgid "Bale, compressed"
+msgstr ""
+
+#: inc/core-functions.php:9
+msgid "Cylindrical bottle"
+msgstr ""
+
+#: inc/core-functions.php:10
+msgid "Beam"
+msgstr ""
+
+#: inc/core-functions.php:11
+msgid "Box"
+msgstr ""
+
+#: inc/core-functions.php:12
+msgid "Decimeter"
+msgstr ""
+
+#: inc/core-functions.php:13
+msgid "Squaare foot"
+msgstr ""
+
+#: inc/core-functions.php:14
+msgid "Gram"
+msgstr ""
+
+#: inc/core-functions.php:15
+msgid "Kilogram"
+msgstr ""
+
+#: inc/core-functions.php:16
+msgid "Kilometer"
+msgstr ""
+
+#: inc/core-functions.php:17
+msgid "Cubic meter"
+msgstr ""
+
+#: inc/core-functions.php:18
+msgid "Meter"
+msgstr ""
+
+#: inc/core-functions.php:19
+msgid "Piece"
+msgstr ""
+
+#: inc/core-functions.php:20
+msgid "Bag"
+msgstr ""
+
+#: inc/core-functions.php:27
+msgid "Sale of goods"
+msgstr ""
+
+#: inc/core-functions.php:28
+msgid "Gift"
+msgstr ""
+
+#: inc/core-functions.php:29
+msgid "Documents"
+msgstr ""
+
+#: inc/core-functions.php:30
+msgid "Samples"
+msgstr ""
+
+#: inc/core-functions.php:31
+msgid "Returns"
+msgstr ""
+
+#: inc/core-functions.php:32
+msgid "Other"
+msgstr ""
+
+#: inc/core-functions.php:45
+msgid "Return packet"
+msgstr ""
+
+#: inc/core-functions.php:46
+msgid "Return packet international"
+msgstr ""
+
+#: inc/core-functions.php:47
+msgid "Premium light"
+msgstr ""
+
+#: inc/core-functions.php:48
+msgid "Premium Select"
+msgstr ""
+
+#: inc/core-functions.php:49
+msgid "Small packet"
+msgstr ""
+
+#: inc/core-functions.php:50
+msgid "Same Day"
+msgstr ""
+
+#: inc/core-functions.php:51
+msgid "Next Day"
+msgstr ""
+
+#: inc/core-functions.php:52
+msgid "Packet Austria"
+msgstr ""
+
+#: inc/core-functions.php:53
+msgid "Packet Premium International"
+msgstr ""
+
+#: inc/core-functions.php:54
+msgid "Combi-freight Austria"
+msgstr ""
+
+#: inc/core-functions.php:55
+msgid "Combi-freight International"
+msgstr ""
+
+#: inc/core-functions.php:56
+msgid "Packet Premium Austria B2B"
+msgstr ""
+
+#: inc/core-functions.php:57
+msgid "EMS Austria"
+msgstr ""
+
+#: inc/core-functions.php:58
+msgid "EMS International"
+msgstr ""
+
+#: inc/core-functions.php:59
+msgid "Packet size M with shipment tracking"
+msgstr ""
+
+#: inc/core-functions.php:60
+msgid "Packet Plus Int. Outbound"
+msgstr ""
+
+#: inc/core-functions.php:61
+msgid "Packet Light Int. non boxable Outbound"
+msgstr ""
+
+#: inc/core-functions.php:62
+msgid "Return packet international standard"
+msgstr ""
+
+#: inc/core-functions.php:74
+msgid "Any country"
+msgstr ""
+
+#: inc/core-functions.php:92
+msgid "Remove entry"
+msgstr ""
+
+#: inc/import-shipment.php:132
+msgid "Order was completed through PLC plugin"
+msgstr ""
+
+#: inc/settings-page.php:10
+msgid "Shipper Data"
+msgstr ""
+
+#: inc/settings-page.php:11
+msgid "Name*"
+msgstr ""
+
+#: inc/settings-page.php:15
+msgid "Name"
+msgstr ""
+
+#: inc/settings-page.php:18
+msgid "Street*"
+msgstr ""
+
+#: inc/settings-page.php:22
+msgid "Street"
+msgstr ""
+
+#: inc/settings-page.php:25
+msgid "House number*"
+msgstr ""
+
+#: inc/settings-page.php:29
+msgid "House number"
+msgstr ""
+
+#: inc/settings-page.php:32
+msgid "Postcode*"
+msgstr ""
+
+#: inc/settings-page.php:36
+msgid "Postcode"
+msgstr ""
+
+#: inc/settings-page.php:39
+msgid "City*"
+msgstr ""
+
+#: inc/settings-page.php:43
+msgid "City"
+msgstr ""
+
+#: inc/settings-page.php:46
+msgid "Country*"
+msgstr ""
+
+#: inc/settings-page.php:50
+msgid "Country"
+msgstr ""
+
+#: inc/settings-page.php:54
+msgid "Phone*"
+msgstr ""
+
+#: inc/settings-page.php:58
+msgid "Phone"
+msgstr ""
+
+#: inc/settings-page.php:62
+msgid "PLC Data"
+msgstr ""
+
+#: inc/settings-page.php:63
+msgid "WSDL Endpoint*"
+msgstr ""
+
+#: inc/settings-page.php:67
+msgid "WSDL Endpoint"
+msgstr ""
+
+#: inc/settings-page.php:70
+msgid "ClientID*"
+msgstr ""
+
+#: inc/settings-page.php:74
+msgid "ClientID"
+msgstr ""
+
+#: inc/settings-page.php:77
+msgid "OrgUnitID*"
+msgstr ""
+
+#: inc/settings-page.php:81
+msgid "OrgUnitID"
+msgstr ""
+
+#: inc/settings-page.php:84
+msgid "OrgUnitGUID*"
+msgstr ""
+
+#: inc/settings-page.php:88
+msgid "OrgUnitGUID"
+msgstr ""
+
+#: inc/settings-page.php:92
+#: inc/settings-page.php:95
+msgid "Standard Packets"
+msgstr ""
+
+#: inc/settings-page.php:98
+#: inc/settings-page.php:101
+msgid "Standard Unit"
+msgstr ""
+
+#: inc/settings-page.php:105
+#: inc/settings-page.php:108
+msgid "Standard Customs Option"
+msgstr ""
+
+#: inc/settings-page.php:112
+#: inc/settings-page.php:115
+msgid "Standard Country of Origin"
+msgstr ""
+
+#: inc/settings-page.php:119
+#: inc/settings-page.php:122
+msgid "Standard Customs Number"
+msgstr ""
+
+#: inc/settings-page.php:125
+msgid "Set Order automatically completed"
+msgstr ""
+
+#: inc/settings-page.php:127
+msgid "If set the order will be automatically completed, if it has been successfully added to plc."
+msgstr ""
+
+#: inc/settings-page.php:145
+msgid "Here you can select for each country the according packet, which has to be used in the export"
+msgstr ""
+
+#: inc/settings-page.php:155
+msgid "Add entry"
+msgstr ""
+
+#: inc/settings-page.php:208
+msgid "PLC Options"
+msgstr ""
+
+#: inc/settings-page.php:218
+msgid "Settings saved"
+msgstr ""
+
+#: inc/settings-page.php:228
+msgid "Save Settings"
+msgstr ""
+
+#: inc/woocommerce.php:19
+msgid "Please set all required fields on the %s"
+msgstr ""
+
+#: inc/woocommerce.php:19
+msgid "PLC Options Page"
+msgstr ""
+
+#: inc/woocommerce.php:34
+msgid "PLC (%s)"
+msgid_plural "PLC (%s)"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/woocommerce.php:43
+msgid "PLC"
+msgstr ""
+
+#: inc/woocommerce.php:51
+msgid "Change to status PLC"
+msgstr ""
+
+#: inc/woocommerce.php:63
+msgid "The order was changed thorugh bulk edit."
+msgstr ""
+
+#: inc/woocommerce.php:96
+#: inc/woocommerce.php:110
+msgid "Order has not yet been sent to PLC"
+msgstr ""
+
+#: inc/woocommerce.php:118
+msgid "Packet"
+msgstr ""
+
+#: inc/woocommerce.php:120
+msgid "Choose a packet for that product. If no packet is chosen, the standard packet on the settings page is taken."
+msgstr ""
+
+#: inc/woocommerce.php:127
+msgid "Customs Number"
+msgstr ""
+
+#: inc/woocommerce.php:129
+msgid "Enter the customs number for that product. If no number is added the standard number on the settings page is taken."
+msgstr ""
+
+#: inc/woocommerce.php:135
+msgid "Unit"
+msgstr ""
+
+#: inc/woocommerce.php:137
+msgid "Choose the unit for that product. If no unit is selected the standard unit on the settings page is taken."
+msgstr ""
+
+#: inc/woocommerce.php:144
+msgid "Customs Option"
+msgstr ""
+
+#: inc/woocommerce.php:146
+msgid "Choose the customs option for that product. If no customs option is selected the standard customs option on the settings page is taken."
+msgstr ""
+
+#: inc/woocommerce.php:153
+msgid "Country of Origin"
+msgstr ""
+
+#: inc/woocommerce.php:155
+msgid "Choose the country of origin for that product. If no country of origin is selected the standard country of origin on the settings page is taken."
+msgstr ""
+
+#: sunlime_plc_export.php:32
+msgid "Please install and activate WooCommerce to use the PLC export tool"
+msgstr ""
+
+#: sunlime_plc_export.php:52
+msgid "It seems, that your server has no SOAPClient class, please contact your server provider/administrator"
+msgstr ""
